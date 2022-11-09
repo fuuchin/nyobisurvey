@@ -1,0 +1,48 @@
+* {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+body {
+  background: #ffe0b0;
+}
+
+textarea {
+  width: 100%;
+  font-size: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  height: 150px;
+}
+
+.btns {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.btn {
+  text-align: left;
+  display: inline-block;
+  width: 47%;
+  height: 8rem;
+  background: #005ab3;
+  color: #ffffff;
+  font-size: 60px;
+  margin: 14px 1px;
+  line-height: 8rem;
+  padding-left: 20px;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  border: none;
+  background: #005ab3;
+  color: #ffffff;
+  font-size: 20px;
+  height: 100px;
+  width: 240px;
+  border-radius: 90px;
+}
